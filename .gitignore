@@ -147,3 +147,10 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# React build output
+build/
