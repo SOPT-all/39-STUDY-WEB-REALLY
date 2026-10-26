@@ -1,0 +1,2 @@
+# 39-STUDY-WEB-REAL-LY
+PLAY SOPT 39기 WEB 리액트 공식문서 스터디
