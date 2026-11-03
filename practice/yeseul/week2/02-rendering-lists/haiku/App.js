@@ -13,8 +13,8 @@ export default function Poem() {
     <article>
       {poem.lines.map((line, index) => (
         <Fragment key={index}>
+          {index > 0 && <hr />}
           <p>{line}</p>
-          <hr />
         </Fragment>
       ))}
     </article>
